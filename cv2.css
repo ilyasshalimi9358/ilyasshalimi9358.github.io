@@ -1,0 +1,233 @@
+*{
+    
+    margin:0;
+    padding: 0;
+    
+}
+.img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100% ;
+    margin-left: 15px;
+}
+.head_pg{
+display: flex;
+background-color: #29292a;
+padding-left: 100px;
+
+}
+.first{
+    background-color: #29292a;
+}
+.info{
+    display: grid;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 25px;
+    background-color: #29292a;
+}
+.info p{
+    font-size: 1.2rem;
+    align-items: center;
+    justify-content: center;
+    padding-right: 500px;
+    color: white;
+}
+.info h1{
+    color: tomato;
+
+}
+.info h2{
+    color:#f0a500;
+    font-size: 1.5rem;
+    color: white;
+
+
+}
+.containair{
+    display: flex;
+}
+.formation {
+   padding-left:50px ;
+   padding-top: 50px;
+   background-color:tomato;
+   border-radius: 4px;
+   margin-left:70px;
+   margin-top: 50px;
+   padding-right: 20px;
+}
+.formation h1 {
+    background-color: tomato;
+    background-size: cover;
+    border-radius: 4px;
+    color: #29292a;
+    
+}
+.formation h3 {
+    background-color: tomato;
+    background-size: cover;
+    border-radius: 4px;
+    color: white;
+}
+.formation p {
+    background-color: tomato;
+    background-size: cover;
+    border-radius: 4px;
+    color: white;
+    
+}
+.competance {
+    margin-left:309px ;
+   padding-top: 50px;
+   background-color:tomato;
+   border-radius: 4px;
+   padding-left:50px ;
+   margin-top: 50px;
+   padding-right: 25px;
+   
+
+}
+.competance p{
+    background-color:tomato;
+   border-radius: 4px;
+   color: white;
+
+}
+.competance h1{
+    background-color:tomato;
+   border-radius: 4px;
+   color: #29292a;
+
+}
+.competance h3{
+    background-color:tomato;
+   border-radius: 4px;
+   color: white;
+}
+.EXPERIENCES{
+    padding-left:50px ;
+    padding-top: 50px;
+    background-color:tomato;
+    border-radius: 4px;
+    margin-left:70px;
+    margin-top: 50px;
+    padding-right: 50px;
+   
+
+}
+.EXPERIENCES h1{
+    background-color:tomato;
+   border-radius: 4px;
+   color: #29292a;
+   
+
+
+}
+.EXPERIENCES p{
+    background-color:tomato;
+   border-radius: 4px;
+   color: white;
+
+}
+.EXPERIENCES h3{
+    background-color:tomato;
+   border-radius: 4px;
+   color: white;
+
+
+}
+.project{
+    margin-left:300px ;
+    padding-top: 50px;
+    background-color:tomato;
+    border-radius: 4px;
+    padding-left:50px ;
+    margin-top: 50px;
+    margin-right: 55px;
+    
+   
+
+}
+.project h1{
+    background-color:tomato;
+    border-radius: 4px;
+    color: #29292a;
+    
+}
+.project p{
+    background-color:tomato;
+    border-radius: 4px;
+    color: white;}
+.project h3{
+    background-color:tomato;
+    border-radius: 4px;
+    color: white;
+}
+.contact_section{
+    display: flex;
+ padding-top:100px ;
+    background-color: #29292a;
+
+}
+.text{
+    display: grid;
+grid-template-columns: subgrid;
+justify-content: space-between;
+margin-top: 50px;
+color: #fff;
+margin-left:50px;
+font-size: 1.5rem;
+}
+.envoi_section{
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+textarea{
+   height: 50px;
+   width: 400px;
+    border:none;
+    decoration:none;
+    resize: none;
+    
+}
+.img_1{
+    height: 20px;
+    width: 20px;
+    color: #fff;
+}
+.contact_us{
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 1.5rem;
+    color: #fff;
+    display: grid;
+   
+}
+.img_contact{
+    display: grid;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+
+}
+button{
+    border: none;
+    outline: none;
+    background-color: tomato;
+    height: 50px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    font-size: 1rem;
+    border-radius: 4px;
+}
+input{
+    height: 50px;
+}
